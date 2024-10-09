@@ -1,3 +1,3 @@
 # ativs-talento-cloud-nat
 
-Repositório criado para compartilhar as atividades do codepark da joy :)
+Repositório criado para compartilhar as atividades do Code Park da joy :)
