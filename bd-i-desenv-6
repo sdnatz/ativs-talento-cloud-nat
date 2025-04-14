@@ -1,0 +1,3 @@
+Banco de dados I - Desenvolvimento 6 #117476
+
+https://sqliteonline.com/#sqltext=%23url-sqlite%3Ddb-sqlite%0D%0A%23tab-name%3DESCOLA.db%0D%0ACREATE%20TABLE%20ALUNO%20(%0A%20%20%20%20ID%20INT%20PRIMARY%20KEY%2C%0A%20%20%20%20nome%20VARCHAR(255)%2C%0A%20%20%20%20email%20VARCHAR(255)%2C%0A%20%20%20%20endereco%20VARCHAR(255)%0A)%3B
